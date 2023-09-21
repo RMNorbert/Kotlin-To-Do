@@ -1,3 +1,11 @@
+<div align="center">
+  
+[![Kotlin](https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin&logoColor=F7DF1E&labelColor=black)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Android-323330.svg?logo=android&logoColor=green&labelColor=black&style=for-the-badge)](https://www.android.com/)
+
+[![License: Unlicense](https://img.shields.io/badge/-Unlicense-blue.svg?logo=unlicense&logoColor=white&style=for-the-badge)](LICENSE "License")
+</div>
+
 # Kotlin-To-Do
 
 [Table of Contents](#kotlin-to-do)
